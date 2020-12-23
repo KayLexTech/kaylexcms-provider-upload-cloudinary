@@ -1,6 +1,6 @@
 {
   "name": "@kaylex_tech/kaylexcms-provider-upload-cloudinary",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cloudinary provider for Kaylex CMS upload",
   "homepage": "https://kaylex.tech",
   "directories": {
