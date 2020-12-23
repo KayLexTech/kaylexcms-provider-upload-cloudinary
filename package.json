@@ -29,7 +29,6 @@
       "url": "https://kaylex.tech"
     }
   ],
-
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "test": "echo \"no tests yet\""
