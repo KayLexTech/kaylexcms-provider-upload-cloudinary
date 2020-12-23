@@ -1,0 +1,37 @@
+{
+  "name": "@kaylex_tech/kaylexcms-provider-upload-cloudinary",
+  "version": "0.0.0",
+  "description": "Cloudinary provider for Kaylex CMS upload",
+  "homepage": "https://kaylex.tech",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "cloudinary": "^1.23.0",
+    "into-stream": "^5.1.0"
+  },
+  "peerDependencies": {
+    "@kaylex_tech/kaylexcms-plugin-upload": "latest"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "perret.luca@gmail.com",
+    "name": "Luca Perret",
+    "url": "https://github.com/lucaperret"
+  },
+  "maintainers": [
+    {
+      "name": "Kaylex Tech",
+      "email": "it@kaylex.tech",
+      "url": "https://kaylex.tech"
+    }
+  ],
+
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  }
+}
